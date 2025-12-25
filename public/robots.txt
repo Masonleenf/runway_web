@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /app-ads.txt
+Disallow: /
+Allow: /
+
+# Explicitly allow Google's AdMob crawler
+User-agent: AdsBot-Google
+Allow: /app-ads.txt
